@@ -1,4 +1,4 @@
-# Weather Severity Classification
+# Weather Classification
 
 ## Project Overview
 
